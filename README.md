@@ -2,7 +2,7 @@
 <a href="mailto:nicolasgiannantonio@gmail.com">nicolasgiannantonio@gmail.com</a></br>
 <a target="_blank" href="https://www.instagram.com/nicolas.giannantonio"/>Instagram</a></br>
 <a target="_blank" href="https://www.instagram.com/nicolas.giannantonio"/>Linkedin</a></br>
-<a target="_blank" href="https://twitter.com/nicolasgiannn">X</a>
+<a target="_blank" href="https://twitter.com/nicolasgiannn">X</a></br>
 <a target="_blank" href="https://nicolas-giannantonio.fr">PORTFOLIO</a>
 
 
