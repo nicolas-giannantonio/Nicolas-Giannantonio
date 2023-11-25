@@ -1,7 +1,7 @@
 # Notes perso
 
-1.61803398875
-mix(vec3(noise(vec2(uTime + st.x - st.y))), vec3(1.0), wave)
+- 1.61803398875
+- mix(vec3(noise(vec2(uTime + st.x - st.y))), vec3(1.0), wave)
 
     --ease-in-quad: cubic-bezier(0.55,0.085,0.68,0.53);
     --ease-in-cubic: cubic-bezier(0.55,0.055,0.675,0.19);
