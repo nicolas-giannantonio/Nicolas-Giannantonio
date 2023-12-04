@@ -3,6 +3,7 @@
 - 1.61803398875
 - mix(vec3(noise(vec2(uTime + st.x - st.y))), vec3(1.0), wave)
 
+<!--
 - ease-in-circ: cubic-bezier(0.6,0.04,0.98,0.335);
 - ease-out-circ: cubic-bezier(0.075,0.82,0.165,1);
 - ease-in-out-circ: cubic-bezier(0.785,0.135,0.15,0.86);
@@ -11,7 +12,7 @@
 
 
 
-<!--
+
 **nicolas-giannantonio/Nicolas-Giannantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ease-in-cubic: cubic-bezier(0.55,0.055,0.675,0.19);
 - ease-in-quart: cubic-bezier(0.895,0.03,0.685,0.22);
