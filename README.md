@@ -1,4 +1,4 @@
-# Notes perso
+# Notes
 
 - 1.61803398875
 - mix(vec3(noise(vec2(uTime + st.x - st.y))), vec3(1.0), wave)
