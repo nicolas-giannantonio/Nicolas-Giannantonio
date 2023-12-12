@@ -1,5 +1,7 @@
 # Notes
+<!--
 - "M0,0 C0.208,0.438 0.062,1 1,1 "
+-->
 - 1.61803398875
 - mix(vec3(noise(vec2(uTime + st.x - st.y))), vec3(1.0), wave)
 
