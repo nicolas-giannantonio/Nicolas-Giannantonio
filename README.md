@@ -1,7 +1,7 @@
-# Notes
+# NICOLAS GIANNANTONIO
 <!--
 - "M0,0 C0.208,0.438 0.062,1 1,1 "
--->
+
 - 1.61803398875
 - mix(vec3(noise(vec2(uTime + st.x - st.y))), vec3(1.0), wave)
 
@@ -20,7 +20,6 @@ vec2 CoverUV(vec2 u, vec2 s, vec2 i) {
   return u * s / st + o;
 }
 
-<!--
 - ease-in-circ: cubic-bezier(0.6,0.04,0.98,0.335);
 - ease-out-circ: cubic-bezier(0.075,0.82,0.165,1);
 - ease-in-out-circ: cubic-bezier(0.785,0.135,0.15,0.86);
