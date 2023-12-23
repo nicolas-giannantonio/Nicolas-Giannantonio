@@ -5,6 +5,21 @@
 - 1.61803398875
 - mix(vec3(noise(vec2(uTime + st.x - st.y))), vec3(1.0), wave)
 
+/*------------------------------
+Background Cover UV
+--------------------------------
+u = basic UV
+s = plane size
+i = image size
+------------------------------*/
+vec2 CoverUV(vec2 u, vec2 s, vec2 i) {
+  float rs = s.x / s.y; // Aspect plane size
+  float ri = i.x / i.y; // Aspect image size
+  vec2 st = rs < ri ? vec2(i.x * s.y / i.y, s.y) : vec2(s.x, i.y * s.x / i.x); // New st
+  vec2 o = (rs < ri ? vec2((st.x - s.x) / 2.0, 0.0) : vec2(0.0, (st.y - s.y) / 2.0)) / st; // Offset
+  return u * s / st + o;
+}
+
 <!--
 - ease-in-circ: cubic-bezier(0.6,0.04,0.98,0.335);
 - ease-out-circ: cubic-bezier(0.075,0.82,0.165,1);
