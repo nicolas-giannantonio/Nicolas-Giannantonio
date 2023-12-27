@@ -5,6 +5,14 @@
 - 1.61803398875
 - mix(vec3(noise(vec2(uTime + st.x - st.y))), vec3(1.0), wave)
 
+///
+PERMET DE FAIRE CHANGER D'IMAGE DE GAUCHE À DROITE
+vec2 fractUV = cos(fract(vUv / 10.0) / 100.0);
+uv.x += (abs(fractUV.x) * 10.0) * uInt / 10.0;
+                    
+
+///
+
 /*------------------------------
 Background Cover UV
 --------------------------------
