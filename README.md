@@ -1,5 +1,5 @@
 # NICOLAS GIANNANTONIO
-- In-depth study on webgl and web performance WebGl, WebGPU with vanilla js
+Further exploration of WebGL, WebGPU, and web performance with vanilla JS.
 <!--
 - "M0,0 C0.208,0.438 0.062,1 1,1 "
 
@@ -34,10 +34,6 @@ vec2 CoverUV(vec2 u, vec2 s, vec2 i) {
 - ease-in-out-circ: cubic-bezier(0.785,0.135,0.15,0.86);
 
 
-
-
-
-
 **nicolas-giannantonio/Nicolas-Giannantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ease-in-cubic: cubic-bezier(0.55,0.055,0.675,0.19);
 - ease-in-quart: cubic-bezier(0.895,0.03,0.685,0.22);
@@ -57,16 +53,4 @@ vec2 CoverUV(vec2 u, vec2 s, vec2 i) {
 - ease-out-expo: cubic-bezier(0.19,1,0.22,1);
 
 - ease-in-quad: cubic-bezier(0.55,0.085,0.68,0.53);
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
