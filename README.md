@@ -1,5 +1,6 @@
 # NICOLAS GIANNANTONIO
-Further exploration of WebGL, WebGPU, and web performance with vanilla JS.
+Study of WebGL, WebGPU, and web performance with vanilla JS.
+
 <!--
 - "M0,0 C0.208,0.438 0.062,1 1,1 "
 
