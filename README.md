@@ -1,4 +1,6 @@
 # NICOLAS GIANNANTONIO
+
+Creative web developer based in Paris, with a strong focus on performance optimization and interactivity. Building websites from scratch whenever possible, using WebGl, OpenGL Shading Language and headless cms. Alternatively, I adeptly utilize technologies such as Nuxt, GSAP, Three js... Driven by a deep interest in design, I approach development and animation with a unique perspective in my projects.
 <!--
 - "M0,0 C0.208,0.438 0.062,1 1,1 "
 
