@@ -3,7 +3,7 @@ Study of WebGL, WebGPU, and web performance with vanilla JS.
 
 Articles I wish I had earlier:
 - [Object fit with webgl](https://medium.com/@nicolasgiannantonio/object-fit-in-webgl-5c50cf6a0c00)
-- [Background-cover - webgl](https://medium.com/@nicolasgiannantonio/background-cover-effect-with-webgl-4ea26138c998)
+- [Background-cover - ogl](https://medium.com/@nicolasgiannantonio/background-cover-effect-with-webgl-4ea26138c998)
 - [Simple post-processing effect - ogl](https://medium.com/@nicolasgiannantonio/post-processing-effect-18b9c3be1c80)
 <!--
 - "M0,0 C0.208,0.438 0.062,1 1,1 "
