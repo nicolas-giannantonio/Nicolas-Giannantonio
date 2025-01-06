@@ -1,5 +1,4 @@
 # NICOLAS GIANNANTONIO
-Study of WebGL, WebGPU, and web performance with vanilla JS.
 
 Last articles:
 - [Object-fit with webgl](https://medium.com/@nicolasgiannantonio/object-fit-in-webgl-5c50cf6a0c00)
